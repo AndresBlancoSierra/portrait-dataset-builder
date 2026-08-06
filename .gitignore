@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Runtime data (large downloads/datasets)
+data/
+imagedl_outputs/
+models/
+*.db
+*.log
+.who-backend.log
+
+# Caches / tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Frontend (who-app)
+who-app/node_modules/
+who-app/dist/
