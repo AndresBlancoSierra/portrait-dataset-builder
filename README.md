@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/AndresBlancoSierra/portrait-dataset-builder">
+    <img src="https://raw.githubusercontent.com/AndresBlancoSierra/portrait-dataset-builder/master/profile.svg" alt="Portrait Dataset Builder — portrait-dataset-builder@arch">
+  </a>
+</p>
+
 # Portrait Dataset Builder
 
 Herramienta CLI para **construir datasets de retratos curados** a partir de
